@@ -1,10 +1,10 @@
-- Hello, my name is @viniciussilvadaconceicao
-- 👀 I'm interested in working with programming.
-- 🌱 I am currently studying higher education in software engineering in the second period and taking free courses to further my studies
-- 💞️ I try to collaborate in solving problems by being a great developer
-- 📫 How to contact me...my email:viniengenhariasft@gmail.com
-- 😄 goal: shows my great potential and determination
-- ⚡ Fun fact: I live in Saquarema/Rio de Janeiro, I really like the beach and in my spare time I try to plan.
+Hello! My name is @viniciussilvadaconceicao.
+👀 I'm interested in delving into the field of programming.
+🌱 Currently, I'm enrolled in my second semester of Software Engineering studies and also taking free courses to deepen my understanding.
+💞️ My aim is to contribute to problem-solving as a skilled developer.
+📫 You can reach me via email at viniengenhariasft@gmail.com.
+😄 I'm determined to showcase my great potential and dedication.
+⚡ Fun fact: I reside in Saquarema, Rio de Janeiro, and I'm passionate about the beach. In my free time, I enjoy planning various activities.
 
 <!---
 viniciussilvadaconceicao/viniciussilvadaconceicao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
