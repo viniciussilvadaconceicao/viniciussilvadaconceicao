@@ -12,8 +12,7 @@
 ![ viniciussilvadaconceicao GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussilvadaconceicao&show_icons=true&theme=dracula )
 
 ![ viniciussilvadaconceicao GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilvadaconceicao&theme=blue-green)
-
-</div>
+</div></br>
 
 ## 📚Tecnologias que uso:
 
