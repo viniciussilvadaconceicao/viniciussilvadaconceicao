@@ -8,11 +8,13 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![]()](https://www.linkedin.com/in/vinicius-silva-1b1422289)
 
-### 📊 Estatísticas:
+## 📊 Estatísticas:
+<div style="display: flex; justify-content: space-around;">
+
 ![ viniciussilvadaconceicao GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussilvadaconceicao&show_icons=true&theme=dracula )
 
 ![ viniciussilvadaconceicao GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilvadaconceicao&theme=blue-green)
-
+</div>
 
 ## 📚Tecnologias que uso:
 
