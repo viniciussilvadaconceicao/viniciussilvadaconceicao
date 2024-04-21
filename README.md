@@ -50,6 +50,6 @@
 </table>
 </br>
 
-## Apaixonado por tecnologia, agora estou no segundo período de Engenharia de Software na Univassouras.Determinado a conseguir minha primeira oportunidade de emprego no campo profissionale fazer a diferença neste setor que tanto me fascina.
+### Apaixonado por tecnologia, agora estou no segundo período de Engenharia de Software na Univassouras.Determinado a conseguir minha primeira oportunidade de emprego no campo profissionale fazer a diferença neste setor que tanto me fascina.
 
 
