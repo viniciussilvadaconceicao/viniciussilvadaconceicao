@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinícius Silva! ✴️seja bem vindo(a) ao meu perfil GitHub!🖐🏾
+## Olá, eu sou o Vinícius Silva!🖐🏾
 ### 📈 Acompanhe minha evolução.
 ### 🌐 Redes sociais:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniscdeza@gmail.com)
