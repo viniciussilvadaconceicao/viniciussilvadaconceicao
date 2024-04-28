@@ -17,7 +17,7 @@
 </div>
 
 ## 📚Tecnologias: 
-<table>
+<table border>
     <tbody>
         <tr>
             <td>📌 Tecnologias em uso:</td>
